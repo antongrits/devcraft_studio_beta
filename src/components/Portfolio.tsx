@@ -4,7 +4,7 @@ import { Footer } from './Footer';
 import { Container } from './ui/container';
 import { Section } from './ui/section';
 import { Card } from './ui/card-component';
-import { X, ExternalLink, Quote } from 'lucide-react';
+import { ExternalLink, Quote } from 'lucide-react';
 
 type Filter = 'all' | 'web' | 'ecommerce' | 'mobile' | 'systems';
 
